@@ -1,0 +1,14 @@
+# Python environment
+venv_ocr/
+__pycache__/
+*.pyc
+
+# # Local Models (Too large for Git)
+# models/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Large data folders
+train_data/
