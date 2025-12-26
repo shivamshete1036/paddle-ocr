@@ -8,7 +8,7 @@ Global:
   save_epoch_step: 10
   eval_batch_step: [0, 500]
   cal_metric_during_train: true
-  pretrained_model: ./models/rec_v4/student.pdparams # Path to your downloaded model
+  pretrained_model: ./models/rec_v4/best_accuracy # Path to your downloaded model
   checkpoints:
   save_inference_dir:
   use_visualdl: false
